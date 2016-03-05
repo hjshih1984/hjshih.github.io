@@ -1,0 +1,65 @@
+header {
+    background-color: black;
+    color: #e1b81e;
+    font-family: impact;
+}
+
+td {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td>a:hover {
+    font-weight: bold;
+}
+
+td>a:visited {
+    color: #e1b81e;
+}
+
+td>a:link {
+    color: #e1b81e;
+}
+
+#top td {
+    text-align: center;
+    background-color: black;
+    font-family: MS PGothic;
+}
+
+div>a {
+    text-align: center;
+}
+
+span {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #e1b81e;
+}
+
+td>a {
+    text-decoration: none;
+}
+
+h2,
+h1,
+h5 {
+    text-align: center;
+}
+
+h4>span {
+    background-color: black;
+    color: #e1b81e;
+}
+
+h3>a {
+    font-family: impact;
+    color: red;
+    width: 100;
+}
+
+h3 {
+    text-align: center;
+}

@@ -1,0 +1,15 @@
+h3 {
+    color: #ff5733;
+    text-align: center;
+    font-family: impact;
+    font-size: 36px;
+}
+
+a:hover {
+    text-decoration: none;
+    color: red;
+}
+
+a:link {
+    text-decoration: none;
+}
